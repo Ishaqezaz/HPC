@@ -10,4 +10,4 @@
 #SBATCH -e hello_world_OpenMP%j.err 
 export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 
-srun ./hello_world
+srun -n 1 ./hello_world
