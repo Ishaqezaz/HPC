@@ -1,0 +1,16 @@
+1 threads:
+Average Execution Time: 15.914840 seconds
+Standard Deviation: 0.024425 seconds
+
+32 threads:
+Average Execution Time: 0.840922 seconds
+Standard Deviation: 0.014835 seconds
+
+64 threads:
+Average Execution Time: 0.400561 seconds
+Standard Deviation: 0.002952 seconds
+
+128 threads:
+Average Execution Time: 0.232197 seconds
+Standard Deviation: 0.003879 seconds
+
